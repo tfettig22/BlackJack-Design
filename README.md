@@ -1,3 +1,3 @@
 # BlackJack Design
 
-![image](https://user-images.githubusercontent.com/101140241/222591918-816b7483-46a5-4cb1-b24b-8c09ef745319.png)
+![image](https://user-images.githubusercontent.com/101140241/222596346-8de7abf0-82d3-423b-bbd4-452191a693e2.png)
